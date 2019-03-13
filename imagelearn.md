@@ -1,6 +1,6 @@
 ## imagelearn
 
-imagelearn is machine learning app developed for Instagram
+imagelearn is a machine learning app developed for Instagram
 
 ### focus
 
@@ -10,4 +10,4 @@ For more details see [Privacy Policy](https://ganagno.github.io/privacypolicy).
 
 ### Support or Contact
 
-Having questions imagelearn? Send us an [Email](mailto:mail@anagno.com) and we’ll help you sort it out.
+Having questions regarding imagelearn? Send us an [Email](mailto:mail@anagno.com) and we’ll help you sort it out.
