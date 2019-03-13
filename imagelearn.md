@@ -10,4 +10,4 @@ For more details see [Privacy Policy](https://ganagno.github.io/privacypolicy).
 
 ### Support or Contact
 
-Having questions imagelearn? Send us an [mailto](mailto:mail@anagno.com) and we’ll help you sort it out.
+Having questions imagelearn? Send us an [Eamil](mailto:georgios.anagnostopoulos@yahoo.com) and we’ll help you sort it out.
