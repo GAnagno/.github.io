@@ -11,4 +11,3 @@ For more details see [Privacy Policy](https://ganagno.github.io/privacypolicy).
 ### Support or Contact
 
 Having questions imagelearn? Send us an [Email](mail@anagno.com) and we’ll help you sort it out.
-
