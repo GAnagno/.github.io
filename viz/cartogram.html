@@ -15,7 +15,7 @@ text {
 
 </style>
 <body>
-<script src="https://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
 var margin = {top: 0, right: 0, bottom: 0, left: 0},
@@ -23,7 +23,7 @@ var margin = {top: 0, right: 0, bottom: 0, left: 0},
     height = 500 - margin.top - margin.bottom,
     padding = 3;
 
-var projection = d3.geoAlbersUsa();
+var projection = d3.geo.albersUsa();
 
 var radius = d3.scale.sqrt()
     .domain([0, 10]) // XXX: Tweak this value to a higher range or automatically set with additional scripting.
