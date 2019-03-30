@@ -2,641 +2,344 @@
  "name": "My LinkedIn",
  "children": [
   {
-   "name": "Engineer, Environmental",
+   "name": "Designer",
    "children": [
     {
-     "name": "Kenneth I."
+     "name": "STAVROS S."
     },
     {
-     "name": "Paul M."
+     "name": "Jinhyuk C."
     },
     {
-     "name": "Charles B."
+     "name": "Angelica G."
     },
     {
-     "name": "Cecil R."
+     "name": "Avra T."
     },
     {
-     "name": "William S."
-    },
-    {
-     "name": "Doug L."
-    },
-    {
-     "name": "Stephen H."
-    },
-    {
-     "name": "Cynthia T."
-    },
-    {
-     "name": "Anna C."
-    },
-    {
-     "name": "Lynn L."
-    },
-    {
-     "name": "Terry B."
-    },
-    {
-     "name": "Dominic A."
-    },
-    {
-     "name": "Kirby C."
-    },
-    {
-     "name": "Carlee W."
-    },
-    {
-     "name": "Patsy B."
-    },
-    {
-     "name": "Dorothy R."
-    },
-    {
-     "name": "Michelle D."
-    },
-    {
-     "name": "Lorenzo W."
-    },
-    {
-     "name": "Sandra H."
-    },
-    {
-     "name": "Mary A."
-    },
-    {
-     "name": "Joyce G."
-    },
-    {
-     "name": "Margaret R."
-    },
-    {
-     "name": "Pearl S."
-    },
-    {
-     "name": "Arthur H."
-    },
-    {
-     "name": "Mary H."
-    },
-    {
-     "name": "Jason M."
-    },
-    {
-     "name": "Margaret R."
-    },
-    {
-     "name": "Adam K."
-    },
-    {
-     "name": "Rebecca W."
-    },
-    {
-     "name": "June W."
-    },
-    {
-     "name": "Teresa J."
-    },
-    {
-     "name": "Jay D."
-    },
-    {
-     "name": "Louis T."
-    },
-    {
-     "name": "Maggie W."
-    },
-    {
-     "name": "Sebastian S."
-    },
-    {
-     "name": "Susan H."
-    },
-    {
-     "name": "Deborah B."
-    },
-    {
-     "name": "David B."
-    },
-    {
-     "name": "Joseph R."
-    },
-    {
-     "name": "Jeffery A."
-    },
-    {
-     "name": "Newton W."
-    },
-    {
-     "name": "James A."
-    },
-    {
-     "name": "Timothy K."
-    },
-    {
-     "name": "Julia W."
-    },
-    {
-     "name": "Joaquin K."
-    },
-    {
-     "name": "Janet B."
-    },
-    {
-     "name": "John J."
-    },
-    {
-     "name": "Eric M."
-    },
-    {
-     "name": "Jonathan S."
-    },
-    {
-     "name": "Donnell B."
-    },
-    {
-     "name": "Thomas R."
-    },
-    {
-     "name": "Timothy M."
-    },
-    {
-     "name": "Mary M."
-    },
-    {
-     "name": "Donald S."
-    },
-    {
-     "name": "Richard G."
-    },
-    {
-     "name": "Katheryn M."
-    },
-    {
-     "name": "Dana B."
-    },
-    {
-     "name": "John A."
-    },
-    {
-     "name": "Hubert C."
-    },
-    {
-     "name": "James H."
-    },
-    {
-     "name": "Jamie L."
-    },
-    {
-     "name": "Michael R."
-    },
-    {
-     "name": "Harold H."
-    },
-    {
-     "name": "Armand B."
-    },
-    {
-     "name": "Carmen G."
-    },
-    {
-     "name": "Sandra J."
-    },
-    {
-     "name": "Kathi H."
-    },
-    {
-     "name": "Sheryl C."
-    },
-    {
-     "name": "Roderick A."
-    },
-    {
-     "name": "Bryan L."
-    },
-    {
-     "name": "Michael A."
-    },
-    {
-     "name": "Gene M."
-    },
-    {
-     "name": "Nancy H."
-    },
-    {
-     "name": "Jeffrey M."
-    },
-    {
-     "name": "Lauren G."
-    },
-    {
-     "name": "Lawrence T."
-    },
-    {
-     "name": "Jesse S."
-    },
-    {
-     "name": "Donald L."
-    },
-    {
-     "name": "Belen J."
-    },
-    {
-     "name": "Annie B."
-    },
-    {
-     "name": "Mary P."
-    },
-    {
-     "name": "Howard S."
-    },
-    {
-     "name": "Isidro V."
-    },
-    {
-     "name": "James L."
-    },
-    {
-     "name": "David K."
-    },
-    {
-     "name": "Frederick B."
-    },
-    {
-     "name": "William H."
-    },
-    {
-     "name": "Marilyn K."
-    },
-    {
-     "name": "Willie J."
-    },
-    {
-     "name": "Maria K."
-    },
-    {
-     "name": "Jeffrey W."
-    },
-    {
-     "name": "Brittney G."
-    },
-    {
-     "name": "Maria V."
-    },
-    {
-     "name": "Henry F."
-    },
-    {
-     "name": "Ralph S."
-    },
-    {
-     "name": "Christopher P."
-    },
-    {
-     "name": "Julianne M."
-    },
-    {
-     "name": "Shirley C."
-    },
-    {
-     "name": "Paula R."
-    },
-    {
-     "name": "Nellie Y."
-    },
-    {
-     "name": "Andy J."
-    },
-    {
-     "name": "Giovanna N."
+     "name": "Constantinos K."
     }
    ]
   },
   {
-   "name": "Chief, Officer",
+   "name": "Director",
    "children": [
     {
-     "name": "Angela S."
+     "name": "Pier Alessio R."
     },
     {
-     "name": "Sarah H."
+     "name": "Paris C."
     },
     {
-     "name": "Judy F."
+     "name": "Masoud A."
     },
     {
-     "name": "Eric D."
-    },
-    {
-     "name": "Belinda W."
-    },
-    {
-     "name": "Max F."
-    },
-    {
-     "name": "Maria M."
-    },
-    {
-     "name": "Joseph B."
-    },
-    {
-     "name": "Frank E."
-    },
-    {
-     "name": "Floyd G."
-    },
-    {
-     "name": "Rosalie W."
-    },
-    {
-     "name": "Michael S."
-    },
-    {
-     "name": "Patrick H."
-    },
-    {
-     "name": "Johnnie B."
+     "name": "Danae T."
     }
    ]
   },
   {
-   "name": "Administrator, School",
+   "name": "Director, Project",
    "children": [
     {
-     "name": "Freddie G."
+     "name": "Yavuz B."
     },
     {
-     "name": "John M."
-    },
-    {
-     "name": "Connie A."
-    },
-    {
-     "name": "Gwendolyn S."
-    },
-    {
-     "name": "Alba P."
-    },
-    {
-     "name": "Constance A."
-    },
-    {
-     "name": "Victoria R."
-    },
-    {
-     "name": "Craig D."
-    },
-    {
-     "name": "Richard B."
-    },
-    {
-     "name": "Amy L."
-    },
-    {
-     "name": "Marc P."
-    },
-    {
-     "name": "John W."
-    },
-    {
-     "name": "Raymond B."
-    },
-    {
-     "name": "Clarence F."
-    },
-    {
-     "name": "Otha P."
-    },
-    {
-     "name": "Stefan M."
-    },
-    {
-     "name": "Steve A."
-    },
-    {
-     "name": "Mary W."
-    },
-    {
-     "name": "Walter L."
-    },
-    {
-     "name": "Jordan M."
-    },
-    {
-     "name": "Eileen P."
-    },
-    {
-     "name": "Edgar R."
-    },
-    {
-     "name": "John K."
-    },
-    {
-     "name": "Sandra J."
-    },
-    {
-     "name": "Raul W."
-    },
-    {
-     "name": "Renee D."
-    },
-    {
-     "name": "Alice C."
-    },
-    {
-     "name": "David S."
-    },
-    {
-     "name": "Deborah S."
-    },
-    {
-     "name": "Corey E."
-    },
-    {
-     "name": "Jeff K."
-    },
-    {
-     "name": "Mary H."
-    },
-    {
-     "name": "Bertha K."
-    },
-    {
-     "name": "Will O."
-    },
-    {
-     "name": "David W."
-    },
-    {
-     "name": "Raymond J."
-    },
-    {
-     "name": "Sabrina S."
-    },
-    {
-     "name": "Jerri R."
-    },
-    {
-     "name": "Reginald S."
-    },
-    {
-     "name": "Tony C."
+     "name": "Wolfgang B."
     }
    ]
   },
   {
-   "name": "Physical, Professor",
+   "name": "Researcher",
    "children": [
     {
-     "name": "Tien D."
+     "name": "Antiopi K."
     },
     {
-     "name": "Numbers W."
+     "name": "George P."
     },
     {
-     "name": "Douglas M."
+     "name": "Yuko I."
     },
     {
-     "name": "Susan G."
-    },
-    {
-     "name": "Patrick R."
-    },
-    {
-     "name": "Jose G."
-    },
-    {
-     "name": "Melissa C."
-    },
-    {
-     "name": "Gerald D."
-    },
-    {
-     "name": "Johnnie R."
-    },
-    {
-     "name": "Adina B."
-    },
-    {
-     "name": "Ariana M."
-    },
-    {
-     "name": "Harold L."
-    },
-    {
-     "name": "Elizabeth J."
+     "name": "Ion M."
     }
    ]
   },
   {
-   "name": "Supervisor, Real",
+   "name": "Junior, Architect",
    "children": [
     {
-     "name": "Kathleen A."
+     "name": "Paulina R."
     },
     {
-     "name": "Evelyn S."
+     "name": "Stathis B."
     },
     {
-     "name": "Brittny D."
+     "name": "Ioanna S."
     },
     {
-     "name": "Ericka N."
+     "name": "Rallou T."
     },
     {
-     "name": "Heather S."
-    },
-    {
-     "name": "Jim N."
-    },
-    {
-     "name": "Phillip H."
-    },
-    {
-     "name": "Robin S."
-    },
-    {
-     "name": "Sabrina R."
-    },
-    {
-     "name": "Brad T."
-    },
-    {
-     "name": "Andrew P."
-    },
-    {
-     "name": "Howard B."
-    },
-    {
-     "name": "Joe V."
-    },
-    {
-     "name": "David R."
-    },
-    {
-     "name": "Grace A."
-    },
-    {
-     "name": "Max S."
-    },
-    {
-     "name": "Robert C."
-    },
-    {
-     "name": "Joan V."
-    },
-    {
-     "name": "Rigoberto K."
-    },
-    {
-     "name": "Jessie P."
-    },
-    {
-     "name": "Stuart M."
-    },
-    {
-     "name": "Robert G."
-    },
-    {
-     "name": "Eusebio W."
-    },
-    {
-     "name": "Kimberly H."
+     "name": "Orestis A."
     }
    ]
   },
   {
-   "name": "Surgeon",
+   "name": "Architect, Engineer",
    "children": [
     {
-     "name": "Marcia M."
+     "name": "Irena D."
     },
     {
-     "name": "Maria R."
+     "name": "Xenokratis V."
     },
     {
-     "name": "Daniel E."
+     "name": "Dimitris A."
     },
     {
-     "name": "James P."
+     "name": "Asimina P."
     },
     {
-     "name": "Patrick G."
+     "name": "Constantinos K."
+    }
+   ]
+  },
+  {
+   "name": "Architect",
+   "children": [
+    {
+     "name": "Fabio C."
     },
     {
-     "name": "Virginia P."
+     "name": "Andreas K."
     },
     {
-     "name": "Glenn P."
+     "name": "Malte L."
     },
     {
-     "name": "Martha M."
+     "name": "Samuel  B."
     },
     {
-     "name": "Kevin W."
+     "name": "Antonios V."
     },
     {
-     "name": "Sarah F."
+     "name": "Eugenia B."
+    },
+    {
+     "name": "Miriam G."
+    },
+    {
+     "name": "Dionysia K."
+    },
+    {
+     "name": "Mary K."
+    },
+    {
+     "name": "Nikoletta A."
+    },
+    {
+     "name": "Danai L."
+    },
+    {
+     "name": "Argyro T."
+    },
+    {
+     "name": "Ero P."
+    },
+    {
+     "name": "Vasilis Ingvar R."
+    },
+    {
+     "name": "Alexios T."
+    },
+    {
+     "name": "Stavroula Eleni T."
+    },
+    {
+     "name": "Andriana T."
+    },
+    {
+     "name": "Regina M."
+    },
+    {
+     "name": "Angeliki M."
+    },
+    {
+     "name": "AVGOUSTA S."
+    },
+    {
+     "name": "George P."
+    },
+    {
+     "name": "Kaihong C."
+    },
+    {
+     "name": "Anna M."
+    },
+    {
+     "name": "Daphne D."
+    },
+    {
+     "name": "Periklis K."
+    },
+    {
+     "name": "despina p."
+    },
+    {
+     "name": "Vasiliki M."
+    },
+    {
+     "name": "Elena G."
+    },
+    {
+     "name": "Yannis S."
+    },
+    {
+     "name": "Artemis K."
+    },
+    {
+     "name": "Manos V."
+    },
+    {
+     "name": "Iraklis K."
+    },
+    {
+     "name": "Spyros A."
+    },
+    {
+     "name": "Maria P."
+    },
+    {
+     "name": "Iro K."
+    },
+    {
+     "name": "Georgia A. D."
+    },
+    {
+     "name": "Pablo R."
+    },
+    {
+     "name": "Antonis T."
+    }
+   ]
+  },
+  {
+   "name": "Specialist",
+   "children": [
+    {
+     "name": "Monika G."
+    },
+    {
+     "name": "Georgios K."
+    },
+    {
+     "name": "Constantinos K."
+    }
+   ]
+  },
+  {
+   "name": "Architectural, Assistant",
+   "children": [
+    {
+     "name": "Friny P."
+    },
+    {
+     "name": "Christos G."
+    }
+   ]
+  },
+  {
+   "name": "Engineer, Project",
+   "children": [
+    {
+     "name": "Anna W."
+    },
+    {
+     "name": "Zhenfei Q."
+    },
+    {
+     "name": "Julien R."
+    },
+    {
+     "name": "Hans J\u00fcrgen K."
+    },
+    {
+     "name": "Szymon F."
+    },
+    {
+     "name": "Johannes M."
+    },
+    {
+     "name": "Julian S."
+    }
+   ]
+  },
+  {
+   "name": "Assistant, Professor",
+   "children": [
+    {
+     "name": "Constantinos M."
+    },
+    {
+     "name": "Athina S."
+    },
+    {
+     "name": "Dimitris G."
+    },
+    {
+     "name": "Socrates Y."
+    }
+   ]
+  },
+  {
+   "name": "Head",
+   "children": [
+    {
+     "name": "Panagiotis C."
+    },
+    {
+     "name": "Manos S."
+    }
+   ]
+  },
+  {
+   "name": "Project, Manager",
+   "children": [
+    {
+     "name": "Kim G."
+    },
+    {
+     "name": "Maria A."
+    },
+    {
+     "name": "Antonios T."
+    }
+   ]
+  },
+  {
+   "name": "Tutor",
+   "children": [
+    {
+     "name": "Dimitra D."
+    },
+    {
+     "name": "Thanos M."
+    }
+   ]
+  },
+  {
+   "name": "Consultant",
+   "children": [
+    {
+     "name": "Marie A."
+    },
+    {
+     "name": "Constantinos K."
+    },
+    {
+     "name": "Yanis S."
     }
    ]
   }
