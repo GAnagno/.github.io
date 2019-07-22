@@ -1,6 +1,6 @@
 ## Home
 
-My name is Georgios Anagnostopoulos. Architect in the day and programmer at night. [Code overview](https://github.com/GAnagno). You can visit my main website [anagno.com](http://anagno.com/) for more information.
+My name is Georgios Anagnostopoulos. Architect in the day and programmer at night. [Code overview](https://github.com/GAnagno). You can visit my main website [anagno.com](http://anagno.com/) for further information and projects.
 
 ### Blog
 
