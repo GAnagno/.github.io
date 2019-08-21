@@ -33,11 +33,6 @@ var map = new mapboxgl.Map({
     //pitch: 35, // pitch in degrees
     //bearing: 0 // bearing in degrees
 });
-
-map.addControl(new mapboxgl.AttributionControl({
-    compact: false,
-    customAttribution: '<a href="https://twitter.com/georg_anagno" target="_blank" > @Georg Anagnostopoulos</a>  <a href="https://www.openstreetmap.ch/" target="_blank"> @OSM</a>',
-}));
 	
 map.addControl(new MapboxGeocoder({
     accessToken: mapboxgl.accessToken
