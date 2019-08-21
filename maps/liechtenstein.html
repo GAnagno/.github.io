@@ -24,7 +24,8 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoiZ2FuYWdubyIsImEiOiJjanpreGRzdXAwbmJkM2dvOWdibjhzOXZjIn0.OJP0eGHOq7qEb9fLSq0wBw';
 
 var map = new mapboxgl.Map({
-    container: 'map',
+    attributionControl: false, 
+	container: 'map',
     style: 'mapbox://styles/ganagno/cjzkda2zs0co21cqj3hap56l9',
     //zoom: 1.8,
     //center: [-122.231297,37.673972],
@@ -36,7 +37,7 @@ var map = new mapboxgl.Map({
 
 map.addControl(new mapboxgl.AttributionControl({
     compact: false,
-    customAttribution: '<a href="https://twitter.com/georg_anagno" target="_blank" > @Georg Anagnostopoulos</a>  <a href="https://www.openstreetmap.ch/" target="_blank"> @OSM</a>',
+    customAttribution: '<a href="https://twitter.com/georg_anagno" target="_blank" > @Georg Anagnostopoulos</a>',
 }));
 	
 map.addControl(new MapboxGeocoder({
