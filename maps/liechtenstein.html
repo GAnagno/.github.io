@@ -6,6 +6,9 @@
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
     <script src='https://api.mapbox.com/mapbox-gl-js/v1.2.0/mapbox-gl.js'></script>
 	<link href='https://api.mapbox.com/mapbox-gl-js/v1.2.0/mapbox-gl.css' rel='stylesheet' />
+	
+    <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.3.0/mapbox-gl-geocoder.min.js'></script>
+	<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.3.0/mapbox-gl-geocoder.css' type='text/css'
     <style>
         body { margin:0; padding:0; }
         #map { position:absolute; top:0; bottom:0; width:100%; }
@@ -19,6 +22,7 @@
 
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoiZ2FuYWdubyIsImEiOiJjanpreGRzdXAwbmJkM2dvOWdibjhzOXZjIn0.OJP0eGHOq7qEb9fLSq0wBw';
+
 var map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/ganagno/cjzkda2zs0co21cqj3hap56l9',
@@ -29,9 +33,16 @@ var map = new mapboxgl.Map({
     //pitch: 35, // pitch in degrees
     //bearing: 0 // bearing in degrees
 });
+
+map.addControl(new mapboxgl.AttributionControl({
+    compact: false,
+    customAttribution: '<a href="https://twitter.com/georg_anagno" target="_blank" > @Georg Anagnostopoulos</a>  <a href="https://www.openstreetmap.ch/" target="_blank"> @OSM</a>',
+}));
+	
 map.addControl(new MapboxGeocoder({
     accessToken: mapboxgl.accessToken
 }));
+
 map.addControl(new mapboxgl.NavigationControl());
 </script>
 
